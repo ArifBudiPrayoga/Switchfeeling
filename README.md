@@ -1,4 +1,9 @@
 # Switchfeeling
+# Introducing `Switchfeeling`
+
+<p align="center">
+    <img src="./music/preview.png" alt="Logo" width="" height="">
+</p>
 `Swithfeeling` is a demo project for fun.
 switch feeling button , I made this button to play my favorite music with mood interaction.
 <br />
@@ -19,5 +24,3 @@ That's All! Now open browser to see the app.
 - [HTML]
 - [CSS]
 - [Javascript]
-
-Looking for static `HTML` , `CSS` , `Javascript` 
