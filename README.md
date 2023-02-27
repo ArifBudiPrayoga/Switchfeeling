@@ -1,9 +1,32 @@
 # Switchfeeling
 switch feeling button , I made this button to play my favorite music with mood interaction.
+![Switchfeeling Demoss](./music/preview.png " ssdemo")
 
+
+# Introducing `Switchfeeling`
+
+<p align="center">
+    <img src="./music/preview.png" alt="Logo" width="" height="">
+</p>
+
+`Swithfeeling` is a demo project for fun.
 <br />
  <a href="https://arifbudiprayoga.github.io/Switchfeeling/"><strong>➥ Live Demo Available </strong></a>
- 
 <br />
+## Set up and run
 
-![Switchfeeling Demoss](./music/preview.png " ssdemo")
+1. Clone the repository
+
+```bash
+https://github.com/shahriarshafin/softavia.git
+```
+
+That's All! Now open  to see the app.
+
+## Built With
+
+- [HTML]
+- [CSS]
+- [Javascript]
+
+Looking for static `HTML` , `CSS` , `Javascript` 
